@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdus_sattar70" target="blank"><img src="https://img.shields.io/twitter/follow/abdus_sattar70?logo=twitter&style=for-the-badge" alt="abdus_sattar70" /></a> </p>
 
-- 🔭 I’m currently working at [Microverse](https://www.microverse.org/)
-
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently learning at [Microverse](https://www.microverse.org/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdusSattar-70?tab=repositories](https://github.com/AbdusSattar-70?tab=repositories)
 
