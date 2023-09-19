@@ -1,6 +1,10 @@
 # 💫 About Me:
 
 
+https://github.com/AbdusSattar-70/AbdusSattar-70/assets/118761303/1399442d-12ce-40e7-b2a1-0809a1e7c686
+
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdus-sattar-a41a26215/)
