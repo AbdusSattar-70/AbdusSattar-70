@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 
-https://github.com/AbdusSattar-70/AbdusSattar-70/assets/118761303/b943a681-a876-4bde-bfc7-f4d015ac5086
 
 
 
